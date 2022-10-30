@@ -1,7 +1,7 @@
 {
-    "name": "hasan",
+    "name": "chughtai",
     "version": "1.0.0",
     "bin": {
-        "hasan": "index.js"
+        "chughtai": "index.js"
     }
 }
